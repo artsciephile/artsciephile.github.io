@@ -4,7 +4,8 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
-social:
+links:
   instagram: https://www.instagram.com/artsciephile
   tiktok: https://www.tiktok.com/@artsciephile
-  youtube: https://www.youtube.com/@artsciephile
+  youtube: https://www.youtube.com/channel/UCCLvDQX8SKL-CjSj71cINbA
+  gdrive: https://drive.google.com/drive/folders/1EqIP3CZFfz5djM41GPpFxjAjf2f84b2C?usp=sharing
