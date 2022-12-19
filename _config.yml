@@ -1,11 +1,13 @@
 title: Artsciephile
-description: Dari atom hingga alam semesta, ketahui gimana segalanya bekerja.
+description: Mari jelajahi indahnya alam semesta dan ketahui bagaimana segalanya bekerja
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
 links:
+  trakteer: https://trakteer.id/artsciephile/tip
   instagram: https://www.instagram.com/artsciephile
   tiktok: https://www.tiktok.com/@artsciephile
   youtube: https://www.youtube.com/channel/UCCLvDQX8SKL-CjSj71cINbA
   gdrive: https://drive.google.com/drive/folders/1EqIP3CZFfz5djM41GPpFxjAjf2f84b2C?usp=sharing
+  about: ./about.html#about
