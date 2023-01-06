@@ -13,11 +13,9 @@ Melalui penyajian yang menarik, kami mengubah cara pandang masyarakat umum terha
 
 Itulah visi kami sebagaimana yang tercermin dari namanya: "art" + "science" + "philia".
 
-Pada akhirnya, kami berharap dapat memberikan dampak positif ke seluruh lapisan masyarakat. Ini pada gilirannya akan meningkatkan daya saing dan melenyapkan pemahaman sesat akan ilmu pengetahuan.
+Pada akhirnya, kami berharap dapat memberikan dampak positif ke seluruh lapisan masyarakat. Ini pada gilirannya akan meningkatkan daya saing di bidang iptek dan melenyapkan pemahaman sesaat yang beredar.
 
-Mengapa astronomi? Apa yang menarik dari alam semesta?
-
-Bagi kami, memahami bagaimana alam semesta bekerja dapat membantu kita untuk memahami diri kita sendiri, di mana kita berada dan untuk apa kita ada. Semesta menyimpan pertanyaan tak terhingga yang perlu kita jawab demi masa depan yang lebih baik.
+Mengapa astronomi? Apa yang menarik dari alam semesta? Memahami bagaimana alam semesta bekerja dapat membantu kita untuk memahami diri kita sendiri, di mana kita berada dan untuk apa kita ada. Semesta menyimpan pertanyaan tak terhingga yang perlu kita jawab demi masa depan yang lebih baik.
 
 Mari jelajahi indahnya alam semesta dan ketahui bagaimana segalanya bekerja bersama kami.
 
